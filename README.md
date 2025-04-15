@@ -1,5 +1,6 @@
 # Pet Name Generator 🐾
 file: langchain_project1.ipynb
+
 A simple application that generates creative pet names based on type and color, leveraging language models via LangChain.
 
 ## Overview
